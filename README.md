@@ -3,7 +3,7 @@ Working kamailio with Multiple Asterisk server as a Media servers Including disp
 
 This is a example configuration script of kamailio for load balance of multiple asterisk servers.
 
-Working example of kamailio with load balancing July 2023.
+Working example of kamailio with load balancing July 2023..
 
 Thanks team to reach kamailio support.
 
