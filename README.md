@@ -228,4 +228,3 @@ My Dev Environment
 
 Thats all for now, I hope this post be of some help for anyone interested in VoIP learning.
 
-
