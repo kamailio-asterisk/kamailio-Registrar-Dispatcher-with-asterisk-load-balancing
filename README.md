@@ -10,8 +10,11 @@ Thanks team to reach kamailio support.
 
 #################################################################################################
 In asterisk 1 entriy need to enable for reail time sync with kamailio.
+
  /etc/asterisk/sip.con
+ 
 uncomment the below line.
+
 rtcachefriends=yes             ; Cache realtime friends by adding themm to the internal list
                                 ; just like friends added from the config file only on a
                                 ; as-needed basis? (yes|no)
