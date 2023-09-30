@@ -1,4 +1,4 @@
-# kamaio
+# kamailio
 Working kamailio with Multiple Asterisk server as a Media servers Including dispatcher &amp; Registrar module
 
 This is a example configuration script of kamailio for load balance of multiple asterisk servers.
