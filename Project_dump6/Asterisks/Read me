@@ -1,0 +1,9 @@
+replace theses files if you are using kamailio and asterisks servers on public network,
+
+few changes need to done if using by public ip.
+
+sip conf file 
+
+and connect the database and update files and test it.
+
+
