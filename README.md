@@ -223,7 +223,7 @@ xlog("L_NOTICE","$rm from $fu (IP:$si:$sp) in route[RTPPROXY] RTPproxy with EI F
 
 Physical-Dev Environment
 I couldn't wait for physical servers and all the networking hassle so I used Oracle Virtual Box and created as many virtual machines as I required and setup a basic networking environment there. Once all the pings started to flow I build the above setup and tested calls - everything worked perfectly as expected.
-
+https://github.com/kamailio-asterisk/kamailio-Registrar-Dispatcher-with-asterisk-load-balancing/blob/6600f78fd26c82bf6e6721dfcfcf621b7f5ce2ccf634/Project_dump6/
  
 My Dev Environment
 
