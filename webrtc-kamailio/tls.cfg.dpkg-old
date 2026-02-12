@@ -1,0 +1,6 @@
+[server:default]
+method = TLSv1.2+
+verify_certificate = no
+require_certificate = no
+private_key = /etc/kamailio/certs/server.key
+certificate = /etc/kamailio/certs/server.crt
