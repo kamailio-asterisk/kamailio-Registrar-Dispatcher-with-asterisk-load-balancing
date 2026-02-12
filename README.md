@@ -229,3 +229,6 @@ My Dev Environment
 
 Thats all for now, I hope this post be of some help for anyone interested in VoIP learning.
 
+<img width="1340" height="415" alt="image" src="https://github.com/user-attachments/assets/f8d1bc3e-b3d2-41e0-ad0d-d41180b52c7c" />
+
+
